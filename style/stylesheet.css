@@ -1,9 +1,10 @@
 
-@import url('https://fonts.google.com/specimen/Source+Code+Pro');
+@import url('https://fonts.googleapis.com/css?family=Source+Code+Pro&display=swap');
 
 *
 {
   background: black;
   color: #00ff51;
-  font-family: "Source Code Pro";
+  font-family: 'Source Code Pro', monospace;
+
 }
